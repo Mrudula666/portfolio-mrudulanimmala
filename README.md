@@ -1,6 +1,5 @@
 # React-Portfolio made with love and with beautiful UI.
 
-Live Preview at : https://myself.now.sh/
 
 ### Hi there 👋 I am Mrudula, a full stack Java developer. I love to build new things that excites me a lot.
 

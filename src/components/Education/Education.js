@@ -58,7 +58,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Internship</h2>
-                                                    <p>Completed one month Internship in Basic of Cyber Crime and Digital Forensics</p>
+                                                    <p>Completed one month Internship in <a target="_blank"><b>Basic of Cyber Crime and Digital Forensics</b></a></p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
